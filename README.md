@@ -1,3 +1,6 @@
+Note:
+The group that I (Tymoteusz) worked in is group number 7, the project is in HandsOn directory.
+
 Course 2023-2024
 ================
 
